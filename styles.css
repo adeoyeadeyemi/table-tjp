@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {font-family:'Poppins', sans-serif;;}
+table, th, td {border: solid black; border-collapse: collapse; padding: 10px 20px;}
+body {text-align: center;}
+table {
+    margin-left: auto;
+    margin-right: auto;
+  }
